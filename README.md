@@ -92,5 +92,4 @@ This repository is a 3D printing model files backup repository for the AIS Const
 - **[3D Printing Task List](#3d-printing-task-list)** - Current printing tasks and progress tracking
 - **[Maintenance Schedule](docs/Regular_Maintenance_Schedule.md)** - Bambu Lab X1C maintenance guide and schedule
 - **[TidyBot2 Resources](https://github.com/jimmyyhwu/tidybot2-resources)** - Original TidyBot2 project resources
-- **[Lab Website](https://www.shao-lab.com/)** - AIS Construction Lab official website
 
