@@ -85,7 +85,3 @@ This repository is a 3D printing model files backup repository for the AIS Const
 - **[Maintenance Schedule](docs/Regular_Maintenance_Schedule.md)** - Bambu Lab X1C maintenance guide and schedule
 - **[TidyBot2 Resources](https://github.com/jimmyyhwu/tidybot2-resources)** - Original TidyBot2 project resources
 
-## Team
-
-AIS Construction Lab, McGill University
-
