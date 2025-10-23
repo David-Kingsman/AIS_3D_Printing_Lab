@@ -1,7 +1,48 @@
-# AIS 3D Printing Lab
-## Overview
+# Bamboo 3D Printer Documentation
 
-This respository is a 3D printing model files backup repository for the AIS Construction Lab at McGill University, specifically designed for the lab's Bamboo X1C 3D printer. The repository contains various 3D printing model files required by the laboratory for manufacturing robotic systems, mobile platforms, and related equipment.
+For AIS CONSTRUCTION LAB AT MCGILL UNIVERSITY
+
+# 🏗️ System Overview
+
+Welcome to our system documentation! This overview provides a high-level look at our features. Please note that this documentation is a work in progress and will be continuously updated with more detailed guides and instructions.
+
+## 📑 Information Hub
+
+1. **Maintenance Tracking System**
+    1. Real-time machine monitoring and maintenance logging
+    2. Comprehensive wiki for template configurations
+    3. Detailed documentation of customization options
+
+## 📊 Dashboard & Reports
+
+**Visual Analytics**
+    1. Interactive project timeline visualization
+    2. Live progress monitoring dashboard
+    3. Advanced template usage analytics
+
+## 🗂️ Resource Center
+
+**Collaboration Tools**
+    1. Streamlined workspace collaboration platform
+    2. Advanced template organization system
+
+## 📝 Task Management
+
+**Productivity Suite**
+    1. Intuitive task tracking interface
+    2. Comprehensive activity logging system
+    3. Advanced project planning toolkit
+
+## 💾 Data Management
+
+**Secure Infrastructure**
+    1. Integrated resource monitoring system
+
+---
+
+## Project Overview
+
+This repository is a 3D printing model files backup repository for the AIS Construction Lab at McGill University, specifically designed for the lab's Bamboo X1C 3D printer. The repository contains various 3D printing model files required by the laboratory for manufacturing robotic systems, mobile platforms, and related equipment.
 
 ## Supported 3D Printers
 
