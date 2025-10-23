@@ -1,0 +1,3 @@
+[submodule "tidybot2-resources"]
+	path = tidybot2-resources
+	url = https://github.com/jimmyyhwu/tidybot2-resources.git
