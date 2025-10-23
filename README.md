@@ -1,12 +1,8 @@
-<div align="center">
+# AIS 3D-PRINTING LAB 
 
-# AIS 3D-PRINTING LAB
-
-![AIS Lab Logo](assets/ais_lab_logo.png)
+![AIS Logo](assets/ais_logo.png)
 
 [🌐 Visit Our Lab Website](https://www.shao-lab.com/)
-
-</div>
 
 ## 🏗️ System Overview
 
