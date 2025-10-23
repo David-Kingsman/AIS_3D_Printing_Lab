@@ -4,8 +4,6 @@
 
 ![AIS Lab Logo](assets/ais_lab_logo.png)
 
-**For AIS CONSTRUCTION LAB AT MCGILL UNIVERSITY**
-
 [🌐 Visit Our Lab Website](https://www.shao-lab.com/)
 
 </div>
