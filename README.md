@@ -1,6 +1,12 @@
-# Bamboo 3D Printer Documentation
+<div align="center">
+
+# AIS 3D-PRINTING LAB
+
+![AIS Lab Logo](assets/ais_lab_logo.png)
 
 **For AIS CONSTRUCTION LAB AT MCGILL UNIVERSITY**
+
+</div>
 
 # 🏗️ System Overview
 
