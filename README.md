@@ -1,6 +1,6 @@
 # Bamboo 3D Printer Documentation
 
-For AIS CONSTRUCTION LAB AT MCGILL UNIVERSITY
+**For AIS CONSTRUCTION LAB AT MCGILL UNIVERSITY**
 
 # 🏗️ System Overview
 
