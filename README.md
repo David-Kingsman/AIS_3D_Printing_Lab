@@ -1,6 +1,4 @@
-# AIS 3D Printing Lab - Bamboo X1C Model Files Backup
-
-
+# AIS 3D Printing Lab
 ## Overview
 
 This respository is a 3D printing model files backup repository for the AIS Construction Lab at McGill University, specifically designed for the lab's Bamboo X1C 3D printer. The repository contains various 3D printing model files required by the laboratory for manufacturing robotic systems, mobile platforms, and related equipment.
