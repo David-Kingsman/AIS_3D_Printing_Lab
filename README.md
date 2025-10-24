@@ -93,5 +93,6 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 - **[3D Printing Task List](#3d-printing-task-list)** - Current printing tasks and progress tracking
 - **[Maintenance Schedule](docs/Regular_Maintenance_Schedule.md)** - Bambu Lab X1C maintenance guide and schedule
+- **[Linux Compile Guide](docs/Linux_Compile_Guide.md)** - BambuStudio compilation guide for Ubuntu/Fedora/Solus
 - **[TidyBot2 Resources](https://github.com/jimmyyhwu/tidybot2-resources)** - Original TidyBot2 project resources
 
