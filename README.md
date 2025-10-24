@@ -54,6 +54,8 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 ## Supported 3D Printers
 
+<img src="assets/x1c.png" width="300" alt="Bambu Lab X1-Carbon">
+
 - **Bambu Lab X1-Carbon** (Primary support)
 
 ## 3D Printing Task List
@@ -62,7 +64,7 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 | # | Model Name | Quantity | Priority | Status | Completion Time | File Location |
 |---|------------|----------|----------|--------|-----------------|---------------|
-| 1 | **Wheel Mount A** | 8 | 🔴 High | 🔄 In Progress | - | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount A.stl` |
+| 1 | **Wheel Mount A** | 8 | 🔴 High | ✅Done | Oct 24 | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount A.stl` |
 | 2 | **Wheel Mount B** | 8 | 🔴 High | 🔄 In Progress | - | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount B.stl` |
 | 3 | **Caster Module Alignment Jig** | 1 | 🟡 Medium | 🔄 In Progress | - | `tidybot2-resources/3D Printing/Caster Module Alignment Jig.stl` |
 | 4 | **Wheel Alignment Jig** | 2 | 🟡 Medium | 🔄 In Progress | - | `tidybot2-resources/3D Printing/Wheel Alignment Jig.stl` |
