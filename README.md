@@ -66,19 +66,19 @@ This repository is a 3D printing model files backup repository for the AIS Const
 |---|------------|----------|----------|--------|-----------------|------------------|---------------|
 | 1 | **Wheel Mount A** | 8 | 🔴 High | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount A.stl` |
 | 2 | **Wheel Mount B** | 8 | 🔴 High | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount B.stl` |
-| 3 | **Caster Module Alignment Jig** | 1 | 🟡 Medium |✅Done | - | White PLA | `tidybot2-resources/3D Printing/Caster Module Alignment Jig.stl` |
-| 4 | **Wheel Alignment Jig** | 2 | 🟡 Medium | ✅Done | - | White PLA | `tidybot2-resources/3D Printing/Wheel Alignment Jig.stl` |
-| 5 | **Bottom Plate Support Bracket** | 8 | 🟡 Medium | 🔄 In Progress | - | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Bottom Plate Support Bracket.stl` |
-| 6 | **Battery Mount (Left)** | 2 | 🟡 Medium | ✅Done | - | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Battery Mount Left.stl` |
-| 7 | **Battery Mount (Right)** | 2 | 🟡 Medium | ✅Done | - | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Battery Mount Right.stl` |
-| 8 | **Breaker Terminal Spacer (PDP 2.0 5A)** | 1 | 🔴 High | 🔄 In Progress | - | White PLA | `tidybot2-resources/3D Printing/Breaker Terminal Spacer (PDP 2.0 5A).stl` |
-| 9 | **Breaker Terminal Spacer (PDP 2.0 40A)** | 1 | 🔴 High | 🔄 In Progress | - | White PLA | `tidybot2-resources/3D Printing/Breaker Terminal Spacer (PDP 2.0 40A).stl` |
+| 3 | **Caster Module Alignment Jig** | 1 | 🟡 Medium |✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Caster Module Alignment Jig.stl` |
+| 4 | **Wheel Alignment Jig** | 2 | 🟡 Medium | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Wheel Alignment Jig.stl` |
+| 5 | **Bottom Plate Support Bracket** | 8 | 🟡 Medium | ✅Done  | - | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Bottom Plate Support Bracket.stl` |
+| 6 | **Battery Mount (Left)** | 2 | 🟡 Medium | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Battery Mount Left.stl` |
+| 7 | **Battery Mount (Right)** | 2 | 🟡 Medium | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Battery Mount Right.stl` |
+| 8 | **Breaker Terminal Spacer (PDP 2.0 5A)** | 1 | 🔴 High | ✅Done  | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Breaker Terminal Spacer (PDP 2.0 5A).stl` |
+| 9 | **Breaker Terminal Spacer (PDP 2.0 40A)** | 1 | 🔴 High | ✅Done  | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Breaker Terminal Spacer (PDP 2.0 40A).stl` |
 
-#### Printing Instructions
 
 **High Priority Items** (Recommended to print first):
 - Wheel Mount A & B (8 each) - Core components for caster module
 - Breaker Terminal Spacers (5A and 40A, 1 each) - Power distribution panel accessories
+
 
 **Printing Notes**:
 1. All STL files are ready and located in their respective folders
@@ -86,6 +86,8 @@ This repository is a 3D printing model files backup repository for the AIS Const
 3. Check model dimensions and print settings before printing
 4. Some parts may require support structures
 5. Please refer to [TidyBot2 documentation](https://tidybot2.github.io/docs/bom/#3d-printing) for printing specifications
+
+
 
 
 
