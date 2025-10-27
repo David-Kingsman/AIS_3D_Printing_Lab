@@ -66,7 +66,7 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 <div align="center">
 
-<img src="assets/tidybot_printing_parts.png" width="150" height="200" alt="TidyBot Printing Parts"> <img src="assets/Wheel Mount A.jpg" width="200" height="150" alt="Wheel Mount A"> <img src="assets/Wheel Mount B.jpg" width="200" height="150" alt="Wheel Mount B">
+<img src="assets/tidybot_printing_parts.png" width="150" height="200" alt="TidyBot Printing Parts" style="transform: rotate(90deg); margin-right: 20px; vertical-align: middle;"> <img src="assets/Wheel Mount A.jpg" width="200" height="150" alt="Wheel Mount A" style="margin-right: 20px; vertical-align: middle;"> <img src="assets/Wheel Mount B.jpg" width="200" height="150" alt="Wheel Mount B" style="vertical-align: middle;">
 
 *Completed 3D printed parts for TidyBot project - Wheel Mount A & B components*
 
