@@ -121,7 +121,7 @@ The SO-ARM100 is a **5 DOF robotic arm** and is the recommended arm to get start
 
 <div align="center">
 
-<img src="assets/tidybot_printing_parts.png" width="150" height="200" alt="TidyBot Printing Parts" style="transform: rotate(90deg); margin-right: 20px; vertical-align: middle;"> <img src="assets/Wheel Mount A.jpg" width="200" height="150" alt="Wheel Mount A" style="margin-right: 20px; vertical-align: middle;"> <img src="assets/Wheel Mount B.jpg" width="200" height="150" alt="Wheel Mount B" style="vertical-align: middle;">
+<img src="assets/tidybot_printing_parts.png" width="150" height="150" alt="TidyBot Printing Parts" style="transform: rotate(90deg); margin-right: 20px; vertical-align: middle;"> <img src="assets/Wheel Mount A.jpg" width="200" height="150" alt="Wheel Mount A" style="margin-right: 20px; vertical-align: middle;"> <img src="assets/Wheel Mount B.jpg" width="200" height="150" alt="Wheel Mount B" style="vertical-align: middle;">
 
 *Completed 3D printed parts for TidyBot project - Wheel Mount A & B components*
 
@@ -153,7 +153,7 @@ The SO-ARM100 is a **5 DOF robotic arm** and is the recommended arm to get start
 5. Please refer to [TidyBot2 documentation](https://tidybot2.github.io/docs/bom/#3d-printing) for printing specifications
 
 
-[4] Hil-serl toy task acessories
+[4] Hil-serl toytask acessories
 
 
 
