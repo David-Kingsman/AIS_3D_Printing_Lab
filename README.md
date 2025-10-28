@@ -60,7 +60,13 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 ## 3D Printing Task List
 
-### [1] Tidybot project
+### [1] Lerobot 3d printed robot arm -- SO100 Aloha
+
+
+### [2] Rebar assembly accessories for xarm6
+
+
+### [3] Tidybot project
 
 #### 📸 Printing Demo - Completed Parts
 
@@ -74,8 +80,8 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 | # | Model Name | Quantity | Priority | Status | Completion Time | Color & Material | File Location |
 |---|------------|----------|----------|--------|-----------------|------------------|---------------|
-| 1 | **Wheel Mount A** | 8 | 🔴 High | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount A.stl` |
-| 2 | **Wheel Mount B** | 8 | 🔴 High | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount B.stl` |
+| 1 | **Wheel Mount A** | 8 | 🔴 High | ✅Done | Oct 23 | White PLA | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount A.stl` |
+| 2 | **Wheel Mount B** | 8 | 🔴 High | ✅Done | Oct 23 | White PLA | `tidybot2-resources/3D Printing/Caster Module/Wheel Mount B.stl` |
 | 3 | **Caster Module Alignment Jig** | 1 | 🟡 Medium |✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Caster Module Alignment Jig.stl` |
 | 4 | **Wheel Alignment Jig** | 2 | 🟡 Medium | ✅Done | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Wheel Alignment Jig.stl` |
 | 5 | **Bottom Plate Support Bracket** | 8 | 🟡 Medium | ✅Done  | Oct 24 | White PLA | `tidybot2-resources/3D Printing/Franka/Franka Bottom Plate Support Bracket.stl` |
