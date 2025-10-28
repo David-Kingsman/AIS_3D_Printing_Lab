@@ -114,10 +114,9 @@ The SO-ARM100 is a **5 DOF robotic arm** and is the recommended arm to get start
 
 ### [2] Rebar assembly accessories for xarm6
 
+#### Tidybot project
 
-### [3] Tidybot project
-
-#### 📸 Printing Demo - Completed Parts
+##### 📸 Printing Demo - Completed Parts
 
 <div align="center">
 
