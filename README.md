@@ -54,13 +54,62 @@ This repository is a 3D printing model files backup repository for the AIS Const
 
 ## Supported 3D Printers
 
-<img src="assets/x1c.png" width="300" alt="Bambu Lab X1-Carbon">
+<div align="center">
+
+<img src="assets/x1c.png" width="300" alt="Bambu Lab X1-Carbon" style="margin-right: 20px; vertical-align: middle;"> <img src="assets/benchmark.jpg" width="200" alt="Bambu Lab X1-Carbon 3D Benchmark Print" style="vertical-align: middle;">
+
+*Bambu Lab X1-Carbon printer and 3D Benchy benchmark test*
+
+</div>
 
 - **Bambu Lab X1-Carbon** (Primary support)
+  - Print Volume: 256 × 256 × 256 mm
+  - Supported Materials: PLA, PETG, ABS, TPU, PA, PC, ASA
+  - Layer Resolution: 0.1-0.3mm
+  - Nozzle Temperature: Up to 300°C
+  - Bed Temperature: Up to 100°C
+
+
+
+*Bambu Lab X1-Carbon printing 3D Benchy benchmark test*
+
+</div>
+
+### Printer Specifications
+- **Build Volume**: 256 × 256 × 256 mm
+- **Layer Height**: 0.1-0.3mm (recommended: 0.2mm)
+- **Print Speed**: Up to 500mm/s
+- **Supported File Formats**: .stl, .3mf, .gcode
+- **Connectivity**: WiFi, USB, SD Card
+
+### Recommended Settings
+- **Layer Height**: 0.2mm for standard prints, 0.1mm for detailed prints
+- **Infill**: 20-30% for structural parts, 10-15% for decorative parts
+- **Support**: Auto-generated supports for overhangs >45°
+- **Bed Adhesion**: Brim for small parts, Raft for complex geometries
 
 ## 3D Printing Task List
 
 ### [1] Lerobot 3d printed robot arm -- SO100 Aloha
+
+#### 📸 SO100 Aloha Components
+
+<div align="center">
+
+<img src="assets/so100.jpg" width="300" alt="SO100 Aloha Components">
+
+*SO100 Aloha dual-arm components and workspace setup*
+
+</div>
+
+#### 🤖 SO-ARM100 Project Overview
+
+The SO-ARM100 is a **5 DOF robotic arm** and is the recommended arm to get started with LeRobot—especially the 7.4V version.
+
+- **Official Repository**: [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+- **LeRobotDepot**: [lerobotdepot](https://github.com/maximilienroberti/lerobotdepot)
+- **Hardware Documentation**: Detailed installation and configuration guides
+- **3D Printing Files**: STL files ready for printing
 
 
 ### [2] Rebar assembly accessories for xarm6
@@ -104,6 +153,7 @@ This repository is a 3D printing model files backup repository for the AIS Const
 5. Please refer to [TidyBot2 documentation](https://tidybot2.github.io/docs/bom/#3d-printing) for printing specifications
 
 
+[4] Hil-serl toy task acessories
 
 
 
