@@ -112,7 +112,7 @@ The SO-ARM100 is a **5 DOF robotic arm** and is the recommended arm to get start
 - **3D Printing Files**: STL files ready for printing
 
 
-### [2] Rebar assembly accessories for xarm6
+### [2] Rebar assembly accessories
 
 #### [a] Tidybot project
 
