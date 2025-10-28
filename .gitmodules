@@ -1,3 +1,7 @@
 [submodule "tidybot2-resources"]
 	path = tidybot2-resources
 	url = https://github.com/jimmyyhwu/tidybot2-resources.git
+
+[submodule "lerobotdepot"]
+	path = lerobotdepot
+	url = https://github.com/maximilienroberti/lerobotdepot.git
