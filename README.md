@@ -70,9 +70,6 @@ This repository is a 3D printing model files backup repository for the AIS Const
   - Bed Temperature: Up to 100°C
 
 
-
-*Bambu Lab X1-Carbon printing 3D Benchy benchmark test*
-
 </div>
 
 ### Printer Specifications
